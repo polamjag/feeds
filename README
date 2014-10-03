@@ -1,0 +1,8 @@
+polamjag/opml - my aggregator subscriptions
+
+files:
+  feeds.opml: OPML file
+  manipopml: small command to treat feeds.opml
+
+notice:
+this repository is just for my backup
