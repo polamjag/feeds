@@ -1,0 +1,21 @@
+#!/bin/sh
+
+shdir="$(cd $(dirname $0) && pwd)"
+
+# parse args
+if [ "$1" = "" ] ; then
+  # usage
+  echo "available commands: count, update"
+elif [ "$1" = "count" ] ; then
+  echo "Counting number of subscriptions ..."
+  cat "$shdir/feeds.opml" | xmllint --format - | grep outline | grep xmlUrl | wc -l
+elif [ "$1" = "update" ] ; then
+  if [ -f "$2" ] ; then
+    cat "$2" | xmllint --format - > "$shdir/feeds.opml"
+    echo "Updated feeds.opml"
+  else
+    echo "no such file: '$2'"
+    exit 1
+  fi
+fi
+
