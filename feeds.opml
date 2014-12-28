@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>BazQux Reader subscriptions</title>
-    <dateCreated>Fri,  3 Oct 2014 18:57:55 GMT</dateCreated>
+    <dateCreated>Sun, 28 Dec 2014 16:30:42 GMT</dateCreated>
   </head>
   <body>
     <outline text="*NIX" title="*NIX">
@@ -70,6 +70,7 @@
       <outline text="Oh, you `re no (fun _ → more)" title="Oh, you `re no (fun _ → more)" type="rss" xmlUrl="http://d.hatena.ne.jp/camlspotter/rss"/>
       <outline text="okdt blogs 2012" title="okdt blogs 2012" type="rss" xmlUrl="http://okdt.org/okdt_blogs.xml"/>
       <outline text="phaのニート日記" title="phaのニート日記" type="rss" xmlUrl="http://pha.hateblo.jp/feed"/>
+      <outline text="piyolog" title="piyolog" type="rss" xmlUrl="http://d.hatena.ne.jp/Kango/rss"/>
       <outline text="r-weblife" title="r-weblife" type="rss" xmlUrl="http://d.hatena.ne.jp/ritou/rss2"/>
       <outline text="RANDMAX" title="RANDMAX" type="rss" xmlUrl="http://blog-randmax.azurewebsites.net/feed/"/>
       <outline text="REVの日記　@はてな" title="REVの日記　@はてな" type="rss" xmlUrl="http://d.hatena.ne.jp/REV/rss"/>
@@ -81,6 +82,7 @@
       <outline text="λx.x K S K ＠ はてな" title="λx.x K S K ＠ はてな" type="rss" xmlUrl="http://d.hatena.ne.jp/KeisukeNakano/rss"/>
       <outline text="φ(・・*)ゞ ｳｰﾝ　カーネルとか弄ったりのメモ" title="φ(・・*)ゞ ｳｰﾝ　カーネルとか弄ったりのメモ" type="rss" xmlUrl="http://kernhack.hatenablog.com/feed"/>
       <outline text="★前田有一の超映画批評★" title="★前田有一の超映画批評★" type="rss" xmlUrl="http://rssc.dokoda.jp/r/3b29967b48c68b8afd170e9c23d2276f/http/movie.maeda-y.com"/>
+      <outline text="✘╹◡╹✘" title="✘╹◡╹✘" type="rss" xmlUrl="http://r7kamura.hatenablog.com/feed"/>
       <outline text="「住宅都市整理公団」別棟" title="「住宅都市整理公団」別棟" type="rss" xmlUrl="http://blog.livedoor.jp/sohsai/index.rdf"/>
       <outline text="あらきけいすけの雑記帳" title="あらきけいすけの雑記帳" type="rss" xmlUrl="http://d.hatena.ne.jp/arakik10/rss2"/>
       <outline text="くるえるはてなくしょん" title="くるえるはてなくしょん" type="rss" xmlUrl="http://d.hatena.ne.jp/kskmeuk/rss2"/>
@@ -131,6 +133,7 @@
       <outline text="本の虫" title="本の虫" type="rss" xmlUrl="http://cpplover.blogspot.jp/rss.xml"/>
       <outline text="桜花な日々" title="桜花な日々" type="rss" xmlUrl="http://d.hatena.ne.jp/rofi/rss2"/>
       <outline text="楽しくないブログ" title="楽しくないブログ" type="rss" xmlUrl="http://nvmzaq.blog.fc2.com/?xml"/>
+      <outline text="檜山正幸のキマイラ飼育記" title="檜山正幸のキマイラ飼育記" type="rss" xmlUrl="http://d.hatena.ne.jp/m-hiyama/rss"/>
       <outline text="武蔵野日記" title="武蔵野日記" type="rss" xmlUrl="http://d.hatena.ne.jp/mamoruk/rss"/>
       <outline text="池田信夫 blog" title="池田信夫 blog" type="rss" xmlUrl="http://ikedanobuo.livedoor.biz/index.rdf"/>
       <outline text="漂流生活的看護記録" title="漂流生活的看護記録" type="rss" xmlUrl="http://rss.exblog.jp/rss/exblog/eboli/index.xml"/>
@@ -155,6 +158,7 @@
       <outline text="gihyo.jp：総合" title="gihyo.jp：総合" type="rss" xmlUrl="http://rss.rssad.jp/rss/gihyo/feed/rss1"/>
       <outline text="Google Chrome Releases" title="Google Chrome Releases" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleChromeReleases"/>
       <outline text="IETF Blog" title="IETF Blog" type="rss" xmlUrl="http://www.ietf.org/blog/feed/"/>
+      <outline text="ImperialViolet" title="ImperialViolet" type="rss" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
       <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="http://www.infoq.com/jp/feed?token=25NSyspAiiaq1zX4dB7tad3qvuS5vRWh"/>
       <outline text="IPv6 Operations Forum Home" title="IPv6 Operations Forum Home" type="rss" xmlUrl="http://v6ops-f.jp/index.php?cmd=rss&amp;ver=1.0"/>
       <outline text="JPNIC Web" title="JPNIC Web" type="rss" xmlUrl="https://www.nic.ad.jp/ja/index.xml"/>
@@ -170,6 +174,7 @@
       <outline text="SourceForge.JP Magazine" title="SourceForge.JP Magazine" type="rss" xmlUrl="http://rss.rssad.jp/rss/sourceforge/magazine/rss"/>
       <outline text="W3C Blog" title="W3C Blog" type="rss" xmlUrl="http://www.w3.org/blog/feed/"/>
       <outline text="W3C News" title="W3C News" type="rss" xmlUrl="http://www.w3.org/blog/news/feed/atom"/>
+      <outline text="WirelessWire News" title="WirelessWire News" type="rss" xmlUrl="http://wirelesswire.jp/rss.xml"/>
       <outline text="日本Unboundユーザー会" title="日本Unboundユーザー会" type="rss" xmlUrl="http://unbound.jp/feed/"/>
       <outline text="暗号プロトコル評価技術コンソーシアム CELLOS" title="暗号プロトコル評価技術コンソーシアム CELLOS" type="rss" xmlUrl="https://www.cellos-consortium.org/jp/index.php?cmd=rss"/>
       <outline text="＠IT" title="＠IT" type="rss" xmlUrl="http://rss.rssad.jp/rss/itmatmarkit/rss091.xml"/>
@@ -178,18 +183,6 @@
       <outline text="安値世界一への挑戦 激安特価品" title="安値世界一への挑戦 激安特価品" type="rss" xmlUrl="http://web-price.info/blog/atom.xml"/>
       <outline text="激安★超特価商店街" title="激安★超特価商店街" type="rss" xmlUrl="http://buy.livedoor.biz/index.rdf"/>
       <outline text="特価ch" title="特価ch" type="rss" xmlUrl="http://blog.livedoor.jp/tokkachan/index.rdf"/>
-    </outline>
-    <outline text="News (en)" title="News (en)">
-      <outline text="BBC News - Business" title="BBC News - Business" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml"/>
-      <outline text="BBC News - Science &amp; Environment" title="BBC News - Science &amp; Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"/>
-      <outline text="WorldViews" title="WorldViews" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_blogpost"/>
-    </outline>
-    <outline text="News (ja)" title="News (ja)">
-      <outline text="GIGAZINE" title="GIGAZINE" type="rss" xmlUrl="http://feed.rssad.jp/rss/gigazine/rss_2.0"/>
-      <outline text="Reuters: ワールド" title="Reuters: ワールド" type="rss" xmlUrl="http://feeds.reuters.com/reuters/JPWorldNews"/>
-      <outline text="WSJ.com: Japan Economy" title="WSJ.com: Japan Economy" type="rss" xmlUrl="http://jp.wsj.com/xml/rss/3_9741.xml"/>
-      <outline text="WSJ.com: Japan Opinion" title="WSJ.com: Japan Opinion" type="rss" xmlUrl="http://jp.wsj.com/xml/rss/3_9745.xml"/>
-      <outline text="国際ニュース - CNN.co.jp" title="国際ニュース - CNN.co.jp" type="rss" xmlUrl="http://feeds.cnn.co.jp/rss/cnn/cnn.rdf"/>
     </outline>
     <outline text="Security" title="Security">
       <outline text="Bugtraq" title="Bugtraq" type="rss" xmlUrl="http://seclists.org/rss/bugtraq.rss"/>
@@ -209,6 +202,7 @@
       <outline text="Secure Coding" title="Secure Coding" type="rss" xmlUrl="http://seclists.org/rss/securecoding.rss"/>
       <outline text="Security &amp; Compliance Blog | Dell SecureWorks" title="Security &amp; Compliance Blog | Dell SecureWorks" type="rss" xmlUrl="http://www.secureworks.com/resources/blog/feed/"/>
       <outline text="Security Basics" title="Security Basics" type="rss" xmlUrl="http://seclists.org/rss/basics.rss"/>
+      <outline text="Security Labs" title="Security Labs" type="rss" xmlUrl="https://community.qualys.com/blogs/securitylabs/feeds/posts"/>
       <outline text="SecurityFocus News" title="SecurityFocus News" type="rss" xmlUrl="http://www.securityfocus.com/rss/news.xml"/>
       <outline text="SecurityFocus Vulnerabilities" title="SecurityFocus Vulnerabilities" type="rss" xmlUrl="http://www.securityfocus.com/rss/vulnerabilities.xml"/>
       <outline text="Threat Analyses | Dell SecureWorks" title="Threat Analyses | Dell SecureWorks" type="rss" xmlUrl="http://www.secureworks.com/rss/threat-analysis.xml"/>
@@ -222,13 +216,13 @@
     </outline>
     <outline text="Tech (en)" title="Tech (en)">
       <outline text="Engadget RSS Feed" title="Engadget RSS Feed" type="rss" xmlUrl="http://www.engadget.com/rss.xml"/>
-      <outline text="ImperialViolet" title="ImperialViolet" type="rss" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
       <outline text="O'Reilly Radar - Insight, analysis, and research about emerging technologies." title="O'Reilly Radar - Insight, analysis, and research about emerging technologies." type="rss" xmlUrl="http://feeds.feedburner.com/oreilly/radar/atom"/>
       <outline text="The Next Web" title="The Next Web" type="rss" xmlUrl="http://feeds.feedburner.com/thenextweb"/>
       <outline text="The Verge -  All Posts" title="The Verge -  All Posts" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml"/>
     </outline>
     <outline text="Tech (ja)" title="Tech (ja)">
       <outline text="AKIBA PC Hotline!" title="AKIBA PC Hotline!" type="rss" xmlUrl="http://rss.rssad.jp/rss/akibapc/akiba-pc.rdf"/>
+      <outline text="blog of mobile" title="blog of mobile" type="rss" xmlUrl="http://blogofmobile.com/feed"/>
       <outline text="CNET Japan 最新情報　総合" title="CNET Japan 最新情報　総合" type="rss" xmlUrl="http://feeds.japan.cnet.com/rss/cnet/all.rdf"/>
       <outline text="Engadget Japanese" title="Engadget Japanese" type="rss" xmlUrl="http://feed.rssad.jp/rss/engadget/rss"/>
       <outline text="INTERNET Watch" title="INTERNET Watch" type="rss" xmlUrl="http://rss.rssad.jp/rss/internetwatch/internet.rdf"/>
