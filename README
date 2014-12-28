@@ -3,6 +3,7 @@ polamjag/feeds - my aggregator subscriptions
 files:
   feeds.opml: OPML file
   manipopml: small command to treat feeds.opml
+    usage: `manipopml update <opml file>` # to update feeds.opml
 
 notice:
 this repository is just for my backup
