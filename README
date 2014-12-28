@@ -2,7 +2,7 @@ polamjag/feeds - my aggregator subscriptions
 
 files:
   feeds.opml: OPML file
-  manipopml: small command to treat feeds.opml
+  manipopml: small command to treat feeds.opml (requires xmllint(1))
     usage: `manipopml update <opml file>` # to update feeds.opml
 
 notice:
